@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/VeeNguyen.github.io/static/css/main.294042ab.css",
+    "main.js": "/VeeNguyen.github.io/static/js/main.738ec2fa.js",
+    "static/js/787.a8a33273.chunk.js": "/VeeNguyen.github.io/static/js/787.a8a33273.chunk.js",
+    "static/media/helvetica-neu.ttf": "/VeeNguyen.github.io/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/VeeNguyen.github.io/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/VeeNguyen.github.io/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/VeeNguyen.github.io/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/VeeNguyen.github.io/index.html",
+    "main.294042ab.css.map": "/VeeNguyen.github.io/static/css/main.294042ab.css.map",
+    "main.738ec2fa.js.map": "/VeeNguyen.github.io/static/js/main.738ec2fa.js.map",
+    "787.a8a33273.chunk.js.map": "/VeeNguyen.github.io/static/js/787.a8a33273.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.294042ab.css",
+    "static/js/main.738ec2fa.js"
+  ]
+}
