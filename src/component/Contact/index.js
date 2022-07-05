@@ -19,8 +19,7 @@ const Contact = () => {
 
     const sendEmail = (e) => {
         // e.preventDedault();
-        console.log("E", e);
-        console.log("SUBMIT SEND EMAIL");
+        alert("SUBMIT SEND EMAIL");
 
         emailjs.sendForm(
             'service_pkpifeg',
@@ -29,11 +28,13 @@ const Contact = () => {
             '6-wgS9Qgzj22cIQwL'
         )
             .then(
-                () => {
+                (result) => {
+                    console.log("RESULT", result.text);
                     alert("MESSAGE SUCCESSFULLY SENT!");
                     window.location.reload(false);
                 },
-                () => {
+                (error) => {
+                    console.log("ERROR", error.text);
                     alert("MESSAGE SUCCESSFULLY FAILED!");
                 }
     

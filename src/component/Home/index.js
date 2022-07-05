@@ -17,7 +17,7 @@ const Home = () => {
         const timer = setTimeout(() => {
             setLetterClass('text-animate-hover')
             console.log("TIMER", timer);
-        }, 4000)
+        }, 2000)
     }, [])
     
     return (
@@ -36,7 +36,7 @@ const Home = () => {
 
                     <AnimatedLetters letterClass={letterClass}
                         strArray={nameArray}
-                        idx={15} />
+                        idx={10} />
                     <br/>
                     
                     <AnimatedLetters letterClass={letterClass}
