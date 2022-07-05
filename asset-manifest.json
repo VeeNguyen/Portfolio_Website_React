@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Portfolio_Website_React/static/css/main.60935b55.css",
-    "main.js": "/Portfolio_Website_React/static/js/main.06f8bdc9.js",
+    "main.css": "/Portfolio_Website_React/static/css/main.fb58ba27.css",
+    "main.js": "/Portfolio_Website_React/static/js/main.3d171226.js",
     "static/js/787.a8a33273.chunk.js": "/Portfolio_Website_React/static/js/787.a8a33273.chunk.js",
     "static/media/helvetica-neu.ttf": "/Portfolio_Website_React/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff2": "/Portfolio_Website_React/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/logo-s.png": "/Portfolio_Website_React/static/media/logo-s.bfc9f81846bda5218dab.png",
     "static/media/CoolveticaRg-Regular.woff2": "/Portfolio_Website_React/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/Portfolio_Website_React/index.html",
-    "main.60935b55.css.map": "/Portfolio_Website_React/static/css/main.60935b55.css.map",
-    "main.06f8bdc9.js.map": "/Portfolio_Website_React/static/js/main.06f8bdc9.js.map",
+    "main.fb58ba27.css.map": "/Portfolio_Website_React/static/css/main.fb58ba27.css.map",
+    "main.3d171226.js.map": "/Portfolio_Website_React/static/js/main.3d171226.js.map",
     "787.a8a33273.chunk.js.map": "/Portfolio_Website_React/static/js/787.a8a33273.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.60935b55.css",
-    "static/js/main.06f8bdc9.js"
+    "static/css/main.fb58ba27.css",
+    "static/js/main.3d171226.js"
   ]
 }
