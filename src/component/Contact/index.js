@@ -51,7 +51,7 @@ const Contact = () => {
                         />
                     </h1>
 
-                    <p>Contact me just to say hello and connect !</p>
+                    <p>Contact me just to say hello and connect!</p>
                 
                     <div className='contact-form'>
                         <form ref={refForm} onSubmit={sendEmail}>

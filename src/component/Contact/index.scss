@@ -1,10 +1,18 @@
 .contact-form {
     width: 100%;
     margin-top: 20px;
+    color: #fff;
+
+    ::placeholder {
+            /* Chrome, Firefox, Opera, Safari 10.1+ */
+            color: white;
+            opacity: 1;
+        }
 
     ul {
         padding: 0;
         margin: 0;
+        
 
         li {
             padding: 0;
@@ -18,6 +26,7 @@
             animation: fadeInUp 2s 2s;
             animation-fill-mode: forwards;
             clear: both;
+            border-radius: 1em;
         }
 
         li.half-row {
@@ -59,7 +68,7 @@
     .flat-button {
         color: #ffd700;
         background: 0 0;
-        font: 11px;
+        font: 2em;
         letter-spacing: 3px;
         text-decoration: none;
         padding: 8px 10px;
@@ -71,6 +80,7 @@
 
 
 .info-map {
+    border-radius: 1em;
     position: absolute;
     background-color: rgb(21, 20, 20);
     bottom: 0;
@@ -100,9 +110,11 @@
     float: right;
     width: 53%;
     height: 100%;
+    border-radius: 2em;
 }
 
 .leaflet-container {
+    border-radius: 2em;
     width: 100%;
     height: 100%;
     position: relative;

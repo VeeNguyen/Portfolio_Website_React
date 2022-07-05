@@ -55,12 +55,12 @@
 
     h1 {
         font-size: 53px;
+        left: auto;
         font-family: 'Coolveltica';
         color: #ffd700;
         margin-top: 0;
         position: relative;
-        margin-bottom: 40px;
-        left: 10px;
+        margin-bottom: 1em;
 
         &::before {
             // content: '<h1>';
