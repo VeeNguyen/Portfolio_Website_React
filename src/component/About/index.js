@@ -39,6 +39,10 @@ const About = () => {
                     I'm a Computer Science graduate passionate about building and implementing new software. I am currently looking for a Summer Internship in 2022 in companies that are leading towards innovation, hoping to expand my technical knowledge and professional network.
                 </p>
 
+                <div className='flat-button'>
+                    <a href='https://github.com/VeeNguyen/Portfolio_Website_React/raw/main/Vy.Nguyen.Resume.2022.docx.pdf'>Resume</a>
+                </div>
+
 
             </div>
 
@@ -70,6 +74,8 @@ const About = () => {
 
                 </div>
             </div>
+
+            
 
             </div>
             

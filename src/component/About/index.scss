@@ -80,3 +80,31 @@
         transform: rotateX(90deg);
     }
 }
+
+.flat-button {
+    color: #ffd700;
+    font-size: 1.3em;
+    font-weight: 400;
+    letter-spacing: 4px;
+    font-family: sans-serif;
+    padding: 10px 10px;
+    border: 1px solid #ffd700;
+    margin: 2em;
+    float: left;
+    animation: fadeIn 1s 1.8s backwards;
+    white-space: nowrap;
+    border-radius: 25px;
+    background-color: Transparent;
+    position: relative;
+    bottom: 1em;
+    
+    a:link {
+        text-decoration: none;
+        color: inherit;
+    }
+
+    &:hover {
+        color: #333;
+        background: #ffd700;
+    }
+}
