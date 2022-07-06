@@ -1,11 +1,11 @@
 .nav-bar {
     // background: #c33764;
-    width: 60px;
+    width: 5em;
     height: 100%;
     position: absolute;
     top: 0;
     z-index: 3;
-    min-height: 500px;
+    min-height: 5em;
 
     .logo {
         display: block;
@@ -101,7 +101,7 @@
 
     ul {
         position: absolute;
-        bottom: 20px;
+        bottom: 1em;
         width: 100%;
         display: block;
         padding: 0;
@@ -111,10 +111,10 @@
 
         li {
             a {
-                padding: 7px 0;
+                padding: 0.5em 0.5em;
                 display: block;
-                font-size: 15px;
-                line-height: 16px;
+                font-size: 2em;
+                line-height: 1em;
 
                 &:hover svg {
                     color: #ffd700;

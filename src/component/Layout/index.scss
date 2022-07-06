@@ -1,23 +1,26 @@
-.page {
+html, .page {
     width: 100%;
     height: 100%;
+    background-attachment: fixed;
+    background-origin: inital;
+    background-repeat: no repeat;
+    margin: 0px;
     position: absolute;
-    // background-color: #335da7;
-    background-image: linear-gradient(to right, #c33764, #1d2671);
+    background-image: linear-gradient(to bottom right, #c33764, #1d2671);
 }
 
 .top-tags {
     bottom: auto;
-    top: 35px;
+    top: 3em;
 }
 
 .tags {
     color: #ffd700;
     opacity: 0.6;
     position: absolute;
-    bottom: 0;
-    left: 120px;
-    font-size: 18px;
+    bottom: 3em;
+    left: 3em;
+    font-size: 1.7em;
     font-family: 'La Belle Aurore';
 }
 
@@ -54,16 +57,18 @@
     }
 
     h1 {
-        font-size: 53px;
+        font-size: 5vw;
         left: auto;
         font-family: 'Coolveltica';
         color: #ffd700;
         margin-top: 0;
         position: relative;
         margin-bottom: 1em;
+        // text-align: center;
 
         &::before {
             // content: '<h1>';
+            text-align: center;
             font-family: 'La Belle Aurore';
             font-size: 18px;
             position: absolute;
@@ -76,6 +81,7 @@
 
         &::after {
             // content: '<h1/>';
+            text-align: center;
             font-family: 'La Belle Aurore';
             font-size: 18px;
             line-height: 10px;
