@@ -40,7 +40,7 @@ const About = () => {
                 </p>
 
                 <div className='flat-button'>
-                    <a href='https://github.com/VeeNguyen/Portfolio_Website_React/blob/main/Vy.Nguyen.Resume.2022.docx%20(new).pdf'>Resume</a>
+                    <a href='https://github.com/VeeNguyen/Portfolio_Website_React/raw/main/Vy.Nguyen.Resume.2022.docx%20(new).pdf'>Resume</a>
                 </div>
 
 
